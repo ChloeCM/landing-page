@@ -123,6 +123,7 @@ form {
   cursor: pointer;
 }
 
+/* Adding in the same colour to the button */
 .instrument-choice input[type="radio"] {
   accent-color: #8a71ec;
 }
